@@ -9,6 +9,10 @@ are defined in modules, functions, classes and methods in your code.
 
 MIT
 ------------
+command::
+ """# Foo  """
+
+
 
 Installation
 ------------
