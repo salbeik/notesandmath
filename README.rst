@@ -7,13 +7,13 @@ A list of supported math commands
 Integrals
 ------------
 
-command::
+Generel notation::
 
     int(expression, [lower bound], [upper bound], var)
 
 The command 'int' returns the indefinite or definit integral of an expression.
 
-Examples:
+#### Examples:
 
 1) Indefinit integration of the function x^2, with respect to the variable x:
 
