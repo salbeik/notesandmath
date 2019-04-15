@@ -10,7 +10,9 @@ are defined in modules, functions, classes and methods in your code.
 MIT
 ------------
 command::
- """# Foo  """
+
+    from flatdoc import flatdoc
+    print(flatdoc('my_pkg'))
 
 
 
