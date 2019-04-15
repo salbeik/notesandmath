@@ -3,7 +3,7 @@ NOTES & MATH DOCUMENTATION
 
 [Documentation]: http://www.reduce-algebra.com/reduce38-docs/reduce.pdf
 
-A list of supported math commands. Notes & Math is based on Reduce CAS and so a complete list of commands and functions can be found in the Reduce CAS documentation ([Documentation]). Not all functionality of reduce is supported in notes & math.
+A list of supported math commands. The math module of Notes & Math is based on Reduce CAS and so a complete list of commands and functions can be found in the Reduce CAS documentation ([Documentation]). Not all functionality of reduce is supported in notes & math.
 
 
 Integrals
