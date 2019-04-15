@@ -7,6 +7,9 @@ flatdoc
 flatdoc is a simple tool that generates flat documentation from docstrings that
 are defined in modules, functions, classes and methods in your code.
 
+MIT
+------------
+
 Installation
 ------------
 
@@ -14,7 +17,6 @@ You can install flatdoc with ``pip``::
 
     pip install flatdoc
 
-s
 
 Writing Documentation
 ---------------------
