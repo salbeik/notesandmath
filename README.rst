@@ -5,6 +5,8 @@ A list of supported math commands. Notes & Math is based on Reduce CAS and so a 
 
 [bower]: http://www.reduce-algebra.com/reduce38-docs/reduce.pdf
 
+[bower]
+
 Integrals
 ------------
 
