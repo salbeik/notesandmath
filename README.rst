@@ -17,13 +17,13 @@ The command 'int' returns the indefinite or definit integral of an expression.
 
 1) Indefinit integration of the function x^2, with respect to the variable x:
 
-command:: 
+Notes & math command:: 
     
     int(x^2,x)
 
 2) Definit integration of the function x^2 from 3 to 5, with respect to the variable x:
 
-command:: 
+Notes & math command:: 
 
     int(x^2,x,3,5)
 
