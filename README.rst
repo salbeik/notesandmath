@@ -14,6 +14,8 @@ You can install flatdoc with ``pip``::
 
     pip install flatdoc
 
+s
+
 Writing Documentation
 ---------------------
 
