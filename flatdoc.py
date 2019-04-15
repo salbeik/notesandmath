@@ -8,6 +8,9 @@ flatdoc
 flatdoc is a simple tool that generates flat documentation from docstrings that
 are defined in modules, functions, classes and methods in your code.
 
+MIT
+------------
+
 Installation
 ------------
 
