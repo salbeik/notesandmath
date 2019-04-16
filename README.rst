@@ -45,3 +45,5 @@ The command 'acos' returns the value of the inverse cosin function.
 
 	acos(0.5) = 1.0472
 
+ARCSIN
+------------
