@@ -47,3 +47,15 @@ The command 'acos' returns the value of the inverse cosin function.
 
 ARCSIN
 ------------ 
+
+General notation::
+	
+	asin(expression)
+
+The command 'asin' returns the value of the inverse sine function.
+
+#### Examples:
+
+1) Calculating the asin value of 0.5::
+
+	acos(0.5) = 0.5236
