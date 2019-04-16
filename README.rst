@@ -9,7 +9,7 @@ A list of supported math commands. The math module of Notes & Math is based on R
 Integrals
 ------------
 
-Generel notation::
+General notation::
 
     int(expression, [lower bound], [upper bound], var)
 
@@ -33,17 +33,59 @@ Notes & math command::
 ARCCOS
 ------------
 
-Generel notation::
+General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosin function.
+The command 'acos' returns the value of the inverse cosine function.
 
 #### Examples:
 
 1) Calculating the acos value of 0.5::
 
 	acos(0.5) = 1.0472
+
+
+ARCCOSH
+------------
+
+General notation::
+
+	acosh(expression)
+
+The command 'acosh' returns the inverse hyperbolic cosine for each element of X.
+
+#### Examples: 
+
+1) Calculating the acosh value when X is 4
+
+	y=acosh(4) = 2.0634
+
+
+ARCCOTH
+------------
+
+General notation::
+
+	acoth(expression)
+
+The command 'acoth' returns the inverse hyperbolic cotangent for each element of X.
+
+#### Examples:
+
+1) Calculating the acoth value when X is 4
+
+	y=acoth(4) = 0.2554
+
+
+ARCCSC
+------------
+
+General notation::
+
+	acsc(expression)
+
+the command 'acsc' 
 
 ARCSIN
 ------------ 
