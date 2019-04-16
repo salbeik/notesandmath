@@ -30,8 +30,18 @@ Notes & math command::
     int(x^2,x,3,5)
 
 
+ARCCOS
+------------
 
+Generel notation::
 
+	acos(expression)
 
+The command 'acos' returns the value of the inverse cosin function.
 
+#### Examples:
+
+1) Calculating the acos value of 0.5::
+
+	acos(0.5) = 1.0472
 
