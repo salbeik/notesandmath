@@ -87,6 +87,46 @@ General notation::
 
 the command 'acsc' 
 
+
+ARCCSCH
+------------
+
+General notation::
+
+	acsch(expression)
+
+the command 'acsch'
+
+
+ARCSEC
+------------
+
+General notation::
+
+	asec(expression)
+
+the command 'asec'  returns the inverse secant of the elements of X in radians.
+
+#### Examples:
+
+1) Calculating
+
+
+ARCSECH
+------------
+
+General notation::
+
+	asech(expression)
+
+the command 'asech' returns the inverse hyperbolic secant for each element of X.
+
+#### Examples:
+
+1) Calculating the asech value when X is 4
+
+
+
 ARCSIN
 ------------ 
 
@@ -101,3 +141,63 @@ The command 'asin' returns the value of the inverse sine function.
 1) Calculating the asin value of 0.5::
 
 	acos(0.5) = 0.5236
+
+
+ARCSINH
+------------
+
+General notation::
+
+	asinh(expression)
+
+The command 'asinh' returns the inverse hyperbolic sine for each element of X.
+
+#### Examples:
+
+1) Calculating the asinh value when X is 4
+	Y = asinh(4) = 2.0947
+
+
+ARCTAN
+------------
+
+General notation::
+
+	atan(expresssion)
+
+The command 'atan' returns the inverse tangent of the elements of X in radians.
+
+#### Examples:
+
+1) Calculating the inverse tangent value when atan is 0.5
+	atan(0.5) = 0.4636
+2) Find the inverse tangent of the elements of vector X when X is 4.
+	y=atan(4) = 1.3258
+
+
+ARCTANH
+------------
+
+General notation::
+
+	atanh(expression)
+
+The command 'atanh' returns the inverse hyperbolic tangent for each element of X.
+
+#### Examples:
+
+1) Calculating the atanh value
+
+
+ARCTAN2
+------------
+
+General notation::
+
+	atan2(expression)
+
+The command 'atan2'  returns the four-quadrant inverse tangent of Y and X, which must be real. The atan2 function follows the convention that atan2(x,x) returns 0 when x is mathematically zero.
+
+#### Examples:
+
+1)
