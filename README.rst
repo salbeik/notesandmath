@@ -41,7 +41,7 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html> $$x = cos^{-1}(x)$$ </html>.
+The command 'acos' returns the value of the inverse cosine function <html> \(x = cos^{-1}(x) \) </html>.
 
 #### Examples:
 
