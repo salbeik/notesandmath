@@ -1,3 +1,6 @@
+<script src="https://www.skema.nu/notesandmath/mathdoc/TeXZilla-min.js"></script>
+<script src="https://fred-wang.github.io/mathjax.js/mpadded-min.js"></script>
+
 NOTES & MATH DOCUMENTATION
 ======= 
 
@@ -37,11 +40,7 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html>   <math>
-      <msqrt>
-        <mn>2</mn>
-      </msqrt>
-    </math>
+The command 'acos' returns the value of the inverse cosine function <html> <x-tex>\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1</x-tex>
 </html>
 
 #### Examples:
