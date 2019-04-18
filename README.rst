@@ -41,7 +41,13 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html> $$ \(ax^2 + bx + c = 0\) $$</html>.
+The command 'acos' returns the value of the inverse cosine function <html> $$ \(ax^2 + bx + c = 0\) $$
+
+<p>
+  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
+</html>.
 
 #### Examples:
 
