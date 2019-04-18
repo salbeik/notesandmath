@@ -40,7 +40,7 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html>   <math>
+The command 'acos' returns the value of the inverse cosine function <html> 
 <math>
   <msup> 
    <mi>cos</mi> 
