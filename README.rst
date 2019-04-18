@@ -41,7 +41,7 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html> $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ </html>.
+The command 'acos' returns the value of the inverse cosine function <html> $x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$ </html>.
 
 #### Examples:
 
