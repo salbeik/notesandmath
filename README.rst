@@ -46,8 +46,8 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function <html> \$ ax^2 + bx + c = 0 \$
-</html>
+The command 'acos' returns the value of the inverse cosine function $ ax^2 + bx + c = 0 $
+
 
 #### Examples:
 
