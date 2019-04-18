@@ -9,31 +9,10 @@ NOTES & MATH DOCUMENTATION
 A list of supported math commands. The math module of Notes & Math is based on Reduce CAS and so a complete list of commands and functions can be found in the Reduce CAS documentation ([Documentation]). Not all functionality of Reduce CAS is supported in notes & math.
 
 
-Integrals
------------- 
-
-General notation::
-
-    int(expression, [lower bound], [upper bound], var)
-
-The command 'int' returns the indefinite or definit integral of an expression.
-
-#### Examples:
-
-1) Indefinit integration of the function x^2, with respect to the variable x:
-
-Notes & math command:: 
-    
-    int(x^2,x)
-
-2) Definit integration of the function x^2 from 3 to 5, with respect to the variable x:
-
-Notes & math command:: 
-
-    int(x^2,x,3,5)
 
 
-ARCCOS
+
+ACOS
 ------------
 
 General notation::
@@ -56,36 +35,36 @@ The command 'acos' returns the value of the inverse cosine function <html> <math
 	acos(0.5) = 1.0472
 
 
-ARCCOSH
+ACOSH
 ------------
 
 General notation::
 
 	acosh(expression)
 
-The command 'acosh' returns the inverse hyperbolic cosine for each element of X.
+The command 'acosh' returns the inverse hyperbolic cosine for each element of the expression.
 
 #### Examples: 
 
-1) Calculating the acosh value when X is 4
+1) Calculating the acosh(x) value when x=4::
 
-	y=acosh(4) = 2.0634
+	acosh(4) = 2.0634
 
 
-ARCCOTH
+ACOTH
 ------------
 
 General notation::
 
 	acoth(expression)
 
-The command 'acoth' returns the inverse hyperbolic cotangent for each element of X.
+The command 'acoth' returns the inverse hyperbolic cotangent for each element of the expression.
 
 #### Examples:
 
-1) Calculating the acoth value when X is 4
+1) Calculating the acoth value when x=4::
 
-	y=acoth(4) = 0.2554
+	acoth(4) = 0.2554
 
 
 ARCCSC
@@ -211,3 +190,26 @@ The command 'atan2'  returns the four-quadrant inverse tangent of Y and X, which
 #### Examples:
 
 1)
+
+Integrals
+------------ 
+
+General notation::
+
+    int(expression, [lower bound], [upper bound], var)
+
+The command 'int' returns the indefinite or definit integral of an expression.
+
+#### Examples:
+
+1) Indefinit integration of the function x^2, with respect to the variable x:
+
+Notes & math command:: 
+    
+    int(x^2,x)
+
+2) Definit integration of the function x^2 from 3 to 5, with respect to the variable x:
+
+Notes & math command:: 
+
+    int(x^2,x,3,5)
