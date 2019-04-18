@@ -1,5 +1,9 @@
+ <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+</script>
+
 NOTES & MATH DOCUMENTATION
-=======
+======= 
 
 [Documentation]: http://www.reduce-algebra.com/reduce38-docs/reduce.pdf
 
@@ -7,7 +11,7 @@ A list of supported math commands. The math module of Notes & Math is based on R
 
 
 Integrals
-------------
+------------ 
 
 General notation::
 
@@ -37,7 +41,7 @@ General notation::
 
 	acos(expression)
 
-The command 'acos' returns the value of the inverse cosine function.
+The command 'acos' returns the value of the inverse cosine function <html> $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ </html>.
 
 #### Examples:
 
