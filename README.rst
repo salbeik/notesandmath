@@ -42,7 +42,7 @@ General notation::
 
 	acosh(expression)
 
-The command 'acosh' returns the inverse hyperbolic cosine for each element of the expression.
+The command 'acosh(x)' returns the inverse hyperbolic cosine for each element of the expression x.
 
 #### Examples: 
 
@@ -62,7 +62,7 @@ The command 'acoth' returns the inverse hyperbolic cotangent for each element of
 
 #### Examples:
 
-1) Calculating the acoth value when x=4::
+1) Calculating the acoth value when x=4.
 
 	acoth(4) = 0.2554
 
@@ -112,7 +112,7 @@ the command 'asech' returns the inverse hyperbolic secant for each element of X.
 
 #### Examples:
 
-1) Calculating the asech value when X is 4
+1) Calculating the asech value when X is 4.
 
 
 
@@ -127,7 +127,7 @@ The command 'asin' returns the value of the inverse sine function.
 
 #### Examples:
 
-1) Calculating the asin value of 0.5::
+1) Calculating the asin value of 0.5.
 
 	acos(0.5) = 0.5236
 
@@ -143,7 +143,7 @@ The command 'asinh' returns the inverse hyperbolic sine for each element of X.
 
 #### Examples:
 
-1) Calculating the asinh value when X is 4
+1) Calculating the asinh value when X is 4.
 	Y = asinh(4) = 2.0947
 
 
@@ -158,7 +158,7 @@ The command 'atan' returns the inverse tangent of the elements of X in radians.
 
 #### Examples:
 
-1) Calculating the inverse tangent value when atan is 0.5
+1) Calculating the inverse tangent value when atan is 0.5.
 	atan(0.5) = 0.4636
 2) Find the inverse tangent of the elements of vector X when X is 4.
 	y=atan(4) = 1.3258
@@ -190,6 +190,53 @@ The command 'atan2'  returns the four-quadrant inverse tangent of Y and X, which
 #### Examples:
 
 1)
+
+
+COS
+------------
+
+General notation::
+
+	cos(expression)
+
+The command 'cos' returns the cosine for each element of x.
+
+#### Examples:
+
+1) Calculating the con value of 4.
+	cos(4) = -0.6536
+
+
+COSH
+------------
+
+General notation::
+
+	cosh(exprssion)
+
+The command 'cosh' returns the hyperbolic cosine of the elements of x.
+
+#### Examples:
+
+1) Calculating the cosh value when x is 4.
+	cosh(4) = 27.3082
+
+
+COT
+------------
+
+General notation::
+
+	cot(expression)
+
+The command 'cot' returns the cotangent of elements of x.
+
+#### Examples:
+
+1) Calculating the cot value 
+
+
+
 
 Integrals
 ------------ 
