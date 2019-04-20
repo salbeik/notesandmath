@@ -143,8 +143,9 @@ The command 'asinh' returns the inverse hyperbolic sine for each element of x.
 
 #### Examples:
 
-1) Calculating the asinh value when X is 4::
-	Y = asinh(4) = 2.0947
+1) Calculating the asinh value when x is 4::
+	
+	asinh(4) = 2.0947
 
 
 ARCTAN
@@ -159,9 +160,12 @@ The command 'atan' returns the inverse tangent of the elements of x in radians.
 #### Examples:
 
 1) Calculating the inverse tangent value when atan is 0.5::
+	
 	atan(0.5) = 0.4636
+	
 2) Find the inverse tangent of the elements of vector X when X is 4::
-	y=atan(4) = 1.3258
+	
+	atan(4) = 1.3258
 
 
 ARCTANH
