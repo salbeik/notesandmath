@@ -62,7 +62,7 @@ The command 'acoth' returns the inverse hyperbolic cotangent for each element of
 
 #### Examples:
 
-1) Calculating the acoth value when x=4.
+1) Calculating the acoth value when x=4::
 
 	acoth(4) = 0.2554
 
@@ -108,11 +108,11 @@ General notation::
 
 	asech(expression)
 
-the command 'asech' returns the inverse hyperbolic secant for each element of X.
+the command 'asech' returns the inverse hyperbolic secant for each element of x.
 
 #### Examples:
 
-1) Calculating the asech value when X is 4.
+1) Calculating the asech value when X is 4::
 
 
 
@@ -127,7 +127,7 @@ The command 'asin' returns the value of the inverse sine function.
 
 #### Examples:
 
-1) Calculating the asin value of 0.5.
+1) Calculating the asin value of 0.5::
 
 	acos(0.5) = 0.5236
 
@@ -139,11 +139,11 @@ General notation::
 
 	asinh(expression)
 
-The command 'asinh' returns the inverse hyperbolic sine for each element of X.
+The command 'asinh' returns the inverse hyperbolic sine for each element of x.
 
 #### Examples:
 
-1) Calculating the asinh value when X is 4.
+1) Calculating the asinh value when X is 4::
 	Y = asinh(4) = 2.0947
 
 
@@ -154,13 +154,13 @@ General notation::
 
 	atan(expresssion)
 
-The command 'atan' returns the inverse tangent of the elements of X in radians.
+The command 'atan' returns the inverse tangent of the elements of x in radians.
 
 #### Examples:
 
-1) Calculating the inverse tangent value when atan is 0.5.
+1) Calculating the inverse tangent value when atan is 0.5::
 	atan(0.5) = 0.4636
-2) Find the inverse tangent of the elements of vector X when X is 4.
+2) Find the inverse tangent of the elements of vector X when X is 4::
 	y=atan(4) = 1.3258
 
 
@@ -171,7 +171,7 @@ General notation::
 
 	atanh(expression)
 
-The command 'atanh' returns the inverse hyperbolic tangent for each element of X.
+The command 'atanh' returns the inverse hyperbolic tangent for each element of x.
 
 #### Examples:
 
@@ -203,7 +203,7 @@ The command 'cos' returns the cosine for each element of x.
 
 #### Examples:
 
-1) Calculating the con value of 4.
+1) Calculating the con value of 4::
 	cos(4) = -0.6536
 
 
@@ -218,7 +218,7 @@ The command 'cosh' returns the hyperbolic cosine of the elements of x.
 
 #### Examples:
 
-1) Calculating the cosh value when x is 4.
+1) Calculating the cosh value when x is 4::
 	cosh(4) = 27.3082
 
 
