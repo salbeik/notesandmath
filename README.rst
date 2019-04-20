@@ -187,7 +187,7 @@ ARCTAN2
 
 General notation::
 
-	atan2(expression)
+	atan2(expression1, expression2)
 
 The command 'atan2'  returns the four-quadrant inverse tangent of Y and X, which must be real. The atan2 function follows the convention that atan2(x,x) returns 0 when x is mathematically zero.
 
@@ -323,6 +323,39 @@ The command 'ei' returns the one-argument exponential integral.
 
 	ei(4) = 19.6309
 
+
+EXP
+------------
+
+General notation:
+
+	exp(expression)
+
+The command 'exp' returns the exponential e^x for each element in array x.
+
+#### Examples:
+
+1) Calculating the exp(x) value when x=4::
+
+	exp(4) = 54.5982
+
+
+HYPOT
+------------
+
+General notation:
+
+	hypot(expression)
+
+The command 'hypot' return the value of a right triangle with side lengths (a,b).
+
+#### Examples:
+
+1) Calculating the hypot(a,b) value when (a,b)=(3,4)::
+	
+	hypot(3,4) = 5
+
+
 Integrals
 ------------ 
 
@@ -345,3 +378,37 @@ Notes & math command::
 Notes & math command:: 
 
     int(x^2,x,3,5)
+
+
+LOG
+------------
+
+General notation:
+
+	log(expression)
+
+The command 'log' returns the natural logarithm of each element in array x.
+
+#### Examples:
+
+1) Calculating the log(x) value when x=4::
+
+	log(4) = 1.3863
+
+
+LOG10
+------------
+
+General notation:
+
+	log10(expression)
+
+The command 'log10' returns the common logarithm of each element in array x.
+
+#### Examples:
+
+1) Calculating the log10(x) value when x=4::
+
+	log10(4) = 0.6021
+
+
