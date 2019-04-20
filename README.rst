@@ -204,6 +204,7 @@ The command 'cos' returns the cosine for each element of x.
 #### Examples:
 
 1) Calculating the con value of 4::
+	
 	cos(4) = -0.6536
 
 
@@ -219,6 +220,7 @@ The command 'cosh' returns the hyperbolic cosine of the elements of x.
 #### Examples:
 
 1) Calculating the cosh value when x is 4::
+	
 	cosh(4) = 27.3082
 
 
