@@ -412,3 +412,201 @@ The command 'log10' returns the common logarithm of each element in array x.
 	log10(4) = 0.6021
 
 
+SEC
+------------
+
+General notation:
+
+	sec(expression)
+
+The command 'sec' returns the secant of the elements of x.
+
+#### Examples:
+
+1) Calculating the sec(x) value when x=4::
+
+	sec(4) = -1.5299
+
+
+SECH
+------------
+
+General notation:
+
+	sech(expression)
+
+The command 'sech' returns the hyperbolic secant of the elements of x.
+
+#### Examples:
+
+1) Calculating the sech(x) value when x=4::
+
+	sech(4) = 0.0366
+
+
+SIN
+------------
+
+General notation:
+
+	sin(expression)
+
+The command 'sin' returns the sine of the elements of x.
+
+#### Examples:
+
+1) Calculating the sin(x) value when x=4::
+
+	sin(4) = -0.7568
+
+
+SINH
+------------
+
+General notation:
+
+	sinh(expression)
+
+The command 'sinh' returns the hyperbolic sine of the elements of x.
+
+#### Examples:
+
+1) Calculating the sinh(x) value when x=4::
+
+	sinh(4) = 27.2899
+
+
+SQRT
+------------
+
+General notation:
+
+	sqrt(expression)
+
+The command 'sqrt' returns the square root of each element of the array x.
+
+#### Examples:
+
+1) Calculating the sqrt(x) value when x=4::
+
+	sqrt(4) = 2
+
+
+TAN
+------------
+
+General notation:
+
+	tan(expression)
+
+The command 'tan' returns the tangent of each element of x.
+
+#### Examples:
+
+1) Calculating the tan(x) value when x=4::
+
+	tan(4) = 1.1578
+
+
+TANH
+------------
+
+General notation:
+
+	tanh(expression)
+
+The command 'tanh' returns the hyperbolic tangent of the elements of x.
+
+#### Examples:
+
+1) Calculating the tanh(x) value when x=4::
+
+	tanh(4) = 0.9993
+
+
+FACTORIAL
+------------
+
+General notation:
+
+	factorial(expression)
+
+The command 'factorial' returns the product of all positive integers less than or equal to n, where n is a nonnegative integer value.
+
+#### Examples:
+
+1) Calculating the factorial(n) value when n=4
+
+	factorial(4) = 24
+
+
+FIX
+------------
+
+General notation:
+
+	fix(expression)
+
+The command 'fix' rounds each element of x to the nearest integer toward zero.
+
+#### Examples:
+
+1) Calculating the fix(x) value when x is 4,465::
+
+	fix(4,465) = 4
+
+
+FLOOR
+------------
+
+General notation:
+
+	floor(expression)
+
+The command 'floor(x)' rounds each element of X to the nearest integer less than or equal to that element.
+The command 'floor(t)' rounds each element of the duration array t to the nearest number of seconds less than or equal to that element.
+The command 'floor(t,unit)' rounds each element of t to the nearest number of the specified unit of time less than or equal to that element.
+
+
+ABS
+------------
+
+General notation:
+
+	abs(expression)
+
+The command 'abs' returns the absolute value of each element in array x.
+
+#### Examples:
+
+1) Calculating the abs(x) value when x=-4
+	abs(-4) = 4
+
+
+NEXTPRIME
+------------
+
+General notation:
+
+	nextprime(expression)
+
+The command 'nextprime' returns the next prime number greater than or equal to n.
+
+#### Examples:
+
+1) Calculating the nextprime(n) when n=4
+	nextprime(4) = 5
+
+
+ROUND
+------------
+
+General notation:
+	round(expression)
+
+The command 'round' rounds each element of x to the nearest integer.
+
+#### Examples:
+
+1) Calculating the round(x) value when x=4,657
+	round(4,657) = 5
