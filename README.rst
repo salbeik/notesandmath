@@ -321,6 +321,8 @@ The command 'ei' returns the one-argument exponential integral.
 
 1) Calculating ei(x) value when x=4::
 
+	ei(4) = 19.6309
+
 Integrals
 ------------ 
 
