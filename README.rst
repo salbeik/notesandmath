@@ -162,7 +162,7 @@ The command 'atan' returns the inverse tangent of the elements of x in radians.
 1) Calculating the inverse tangent value when atan is 0.5::
 	
 	atan(0.5) = 0.4636
-	
+
 2) Find the inverse tangent of the elements of vector X when X is 4::
 	
 	atan(4) = 1.3258
@@ -208,6 +208,7 @@ The command 'cos' returns the cosine for each element of x.
 #### Examples:
 
 1) Calculating the con value of 4::
+	
 	cos(4) = -0.6536
 
 
@@ -223,6 +224,7 @@ The command 'cosh' returns the hyperbolic cosine of the elements of x.
 #### Examples:
 
 1) Calculating the cosh value when x is 4::
+	
 	cosh(4) = 27.3082
 
 
